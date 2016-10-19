@@ -1,5 +1,4 @@
 package homework5;
-<<<<<<< HEAD
 import java.util.*;
 public class ExamForWhileStars {
 
@@ -202,15 +201,3 @@ public class ExamForWhileStars {
 		}
 	}
 
-=======
-
-public class ExamForWhileStars {
-
-	public static void main(String[] args) {
-		System.out.println("¾È³çÇÏ¼¼¿ä");
-		
-
-	}
-
-}
->>>>>>> branch 'master' of https://github.com/jsy2540/homework5-1.git
